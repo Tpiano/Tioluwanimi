@@ -1,6 +1,6 @@
 # Hi hi 👋, I'm Tioluwanimi
 
-[![Linkedin Badge](https://img.shields.io/badge/-akinwunmi-toluwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/akinwunmi-toluwani-864aa7142)](https://linkedin.com/in/akinwunmi-toluwani-864aa7142/)
+[![Linkedin Badge](https://img.shields.io/badge/-akinwunmitoluwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/akinwunmi-toluwani-864aa7142)](https://linkedin.com/in/akinwunmi-toluwani-864aa7142/)
 [![Instagram Badge](https://img.shields.io/badge/-akinwunmitoluwani-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/akinwunmitoluwani/)](https://https://www.instagram.com/akinwunmitoluwani/)
 [![Gmail Badge](https://img.shields.io/badge/toluwaniakin2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toluwaniakin2020@gmail.com)](mailto:toluwaniakin2020@gmail.com)
 

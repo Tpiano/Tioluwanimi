@@ -1,9 +1,8 @@
 # Hi hi 👋, I'm Tioluwanimi
 
-[![Linkedin Badge](https://img.shields.io/badge/-sayetunde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayetunde/)](https://www.linkedin.com/in/sayetunde/)
-[![Instagram Badge](https://img.shields.io/badge/-for.data.geeks-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/for.data.geeks/)](https://instagram.com/for.data.geeks)
-[![Youtube Badge](https://img.shields.io/badge/-Oluwayetty-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Oluwayetty)](https://www.youtube.com/c/Oluwayetty)
-[![Gmail Badge](https://img.shields.io/badge/oluwayettyservices@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oluwayettyservices@gmail.com)](mailto:oluwayettyservices@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-akinwunmi-toluwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/akinwunmi-toluwani-864aa7142)](https://linkedin.com/in/akinwunmi-toluwani-864aa7142/)
+[![Instagram Badge](https://img.shields.io/badge/-akinwunmitoluwani-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/akinwunmitoluwani/)](https://https://www.instagram.com/akinwunmitoluwani/)
+[![Gmail Badge](https://img.shields.io/badge/toluwaniakin2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toluwaniakin2020@gmail.com)](mailto:toluwaniakin2020@gmail.com)
 
 I am qualified Junior data analyst with proven abilities in data collection, data cleaning  data analysis and visualization with a great attention to detail and a high level of accuracy. Expert in performing work using Microsoft analytics packages  (excel...), data visualization software (power bi) and Python.
 <p>
